@@ -1,2 +1,6 @@
 test file is created in test env
+<<<<<<< HEAD
 welcome
+=======
+hello world
+>>>>>>> 5fd7902b21b49b9e51ce6a4981e160e354af38b3
